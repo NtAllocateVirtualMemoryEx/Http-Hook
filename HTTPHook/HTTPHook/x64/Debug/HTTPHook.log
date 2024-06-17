@@ -1,0 +1,6 @@
+﻿HTTPHook.obj : error LNK2019: unresolved external symbol MH_Initialize referenced in function main
+HTTPHook.obj : error LNK2019: unresolved external symbol MH_Uninitialize referenced in function main
+HTTPHook.obj : error LNK2019: unresolved external symbol MH_CreateHook referenced in function main
+HTTPHook.obj : error LNK2019: unresolved external symbol MH_EnableHook referenced in function main
+HTTPHook.obj : error LNK2019: unresolved external symbol MH_DisableHook referenced in function main
+C:\Users\Hayden\source\repos\HTTPHook\x64\Debug\HTTPHook.exe : fatal error LNK1120: 5 unresolved externals
